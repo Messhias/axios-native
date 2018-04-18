@@ -19,5 +19,5 @@ react-native run-android
 ```
 
 # Screenshots
-![Alt text](./img/1.jpg?raw=true "Figure 1")
-![Alt text](./img/2.jpg?raw=true "Figure 2")
+![Alt text](https://github.com/Messhias/axios-native/blob/master/img/1.png "Figure 1")
+![Alt text](https://github.com/Messhias/axios-native/blob/master/img/1.png "Figure 2")
